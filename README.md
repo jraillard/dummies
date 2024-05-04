@@ -3,4 +3,5 @@ Here's my repo where I store some [PoCs](https://www.cadremploi.fr/editorial/con
 
 # Dummies list
 
-- [`dummy-terraform`](dummy-terraform/README.md) : small sample project for terraform
+- [`dummy-terraform`](./dummy-terraform/README.md) : small sample project for terraform
+- [`dummy-dotnet-tool`](./dummy-dotnet-tool/dummy.botsay/README.md) : sample for dotnet tool
