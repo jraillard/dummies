@@ -1,0 +1,3 @@
+# Terraform states
+**/states/**
+**/.terraform/providers
