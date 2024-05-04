@@ -6,16 +6,16 @@
 
 ```bash
 # Install the tool globally
-dotnet tool install -g dummy-botsay
+dotnet tool install -g dummy.botsay
 
 # Install the tool locally
-dotnet tool install dummy-botsay
+dotnet tool install dummy.botsay
 ```
 
 
 # Usage
 
 ```bash
-botsay "Hello, I am a bot"
+dummy-botsay "Hello, I am a bot"
 ```
 

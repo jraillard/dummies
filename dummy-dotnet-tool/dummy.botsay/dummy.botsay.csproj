@@ -9,7 +9,7 @@
     <ToolCommandName>dummy-botsay</ToolCommandName>
 
     <PackageId>dummy.botsay</PackageId>
-    <PackageVersion>1.0.0</PackageVersion>
+    <PackageVersion>1.0.1</PackageVersion>
     <Copyright>Copyright 2024</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageOutputPath>./nupkg</PackageOutputPath>
