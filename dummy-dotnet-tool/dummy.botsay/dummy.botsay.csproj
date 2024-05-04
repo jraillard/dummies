@@ -16,9 +16,9 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageIcon>dummy-botsay-icon.png</PackageIcon>
 
-    <RepositoryUrl></RepositoryUrl>
+    <RepositoryUrl>https://github.com/jraillard/dummies/tree/master/dummy-dotnet-tool/dummy.botsay</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <RepositoryBranch>main</RepositoryBranch>
+    <RepositoryBranch>master</RepositoryBranch>
   </PropertyGroup>
 
   <ItemGroup>
